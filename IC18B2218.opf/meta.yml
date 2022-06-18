@@ -1,0 +1,39 @@
+id: IC18B2218
+source: https://sakyaresearch.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-18T19:17:28.923637'
+last_modified: '2022-06-18T19:17:28.923649'
+parser: null
+source_metadata:
+  title: Śāriputras biographies of Virupa, Goraknātha and Golenāthā
+  author: paN chen shA ri pu tra/
+  description: 'Digital version 1.0 {Wylie}; WYLIE COPY of master xml (completed:
+    2021-07-06); revision in process, no thematic TEI markup; abbreviated orthographic
+    forms spelled out throughout
+
+    the text'
+  file_info:
+  - 'Language: Wylie'
+  - 'Coverage: Full Text'
+  - 'Accessible: publicly'
+  responibilities:
+  - Digital edition:Sakya Research Centre (src)
+  - Text input:Google Docs, OCR-processed (Tesseract)
+  - Editorial process:Mathias Fermer (mf)
+  - TEI Encoding:Sakya Research Centre
+  - TEI Markup:-
+  - Revisions/Corrections:-
+  text_witnesses: https://sakyaresearch.org/sources/5191
+  bases:
+    472d:
+      title: Śāriputras biographies of Virupa, Goraknātha and Golenāthā
+      order: 1
+      base_file: 472d.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null

@@ -1,0 +1,103 @@
+id: 63f3d6ca0e8c4a6282e54de2b29c1ec5
+annotation_type: Pagination
+revision: '00001'
+annotations:
+  c70dea3e3a1b480bb7cdb976bc84042a:
+    span:
+      start: 0
+      end: 180
+    metadata:
+      page_num: 1a
+    page_info: null
+    imgnum: 1
+    reference: null
+  c3f754a02a024ab4872f987c8588bf52:
+    span:
+      start: 182
+      end: 1402
+    metadata:
+      page_num: 1b
+    page_info: null
+    imgnum: 2
+    reference: null
+  e6f63806d2a5450589870b14928537d3:
+    span:
+      start: 1404
+      end: 2625
+    metadata:
+      page_num: 2a
+    page_info: null
+    imgnum: 3
+    reference: null
+  8b351c86a4774163bfbd8c4bb4f7e856:
+    span:
+      start: 2627
+      end: 3821
+    metadata:
+      page_num: 2b
+    page_info: null
+    imgnum: 4
+    reference: null
+  6eda508b815743bbb533b39542890869:
+    span:
+      start: 3823
+      end: 5021
+    metadata:
+      page_num: 3a
+    page_info: null
+    imgnum: 5
+    reference: null
+  5aa526a561304ac88eef6bdd51cc5f39:
+    span:
+      start: 5023
+      end: 6252
+    metadata:
+      page_num: 3b
+    page_info: null
+    imgnum: 6
+    reference: null
+  07a3be968bdb4406b1bc42a7cbf754e8:
+    span:
+      start: 6254
+      end: 7518
+    metadata:
+      page_num: 4a
+    page_info: null
+    imgnum: 7
+    reference: null
+  36c91b10d63c43608ffa90555b54bc77:
+    span:
+      start: 7520
+      end: 8809
+    metadata:
+      page_num: 4b
+    page_info: null
+    imgnum: 8
+    reference: null
+  ee1c43be92fc455dacc799ce9ca5926f:
+    span:
+      start: 8811
+      end: 9897
+    metadata:
+      page_num: 5a
+    page_info: null
+    imgnum: 9
+    reference: null
+  c8d41e04e7f8429ba8ec9d204ee4cf0f:
+    span:
+      start: 9899
+      end: 10954
+    metadata:
+      page_num: 5b
+    page_info: null
+    imgnum: 10
+    reference: null
+  3658c434eb044911b81820b58426a028:
+    span:
+      start: 10956
+      end: 11919
+    metadata:
+      page_num: 6a
+    page_info: null
+    imgnum: 11
+    reference: null
